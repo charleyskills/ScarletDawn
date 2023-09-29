@@ -1,0 +1,37 @@
+#EXTM3U m3uautoload=1 cache=1000 deinterlace=1
+
+#EXTINF:-1 tvg-id="2194" tvg-name="1+1 Марафон HD UA",1+1 Марафон HD UA
+http://hls.lan.ua:8001/index.m3u8
+
+#EXTINF:-1 tvg-id="2125" tvg-name="1+1 Україна UA",1+1 Україна UA
+http://hls.lan.ua:8004/index.m3u8
+
+#EXTINF:-1 tvg-id="2195" tvg-name="2+2 HD",2+2 HD
+http://hls.lan.ua:8072/index.m3u8
+
+#EXTINF:-1 tvg-id="2202" tvg-name="ПлюсПлюс HD",ПлюсПлюс HD
+http://hls2.lan.ua:8134/index.m3u8
+
+#EXTINF:-1 tvg-id="2053" tvg-name="Extreme sports",Extreme sports
+http://hls2.lan.ua:8006/index.m3u8
+
+#EXTINF:-1 tvg-id="2217" tvg-name="УНИАН ТВ",УНИАН ТВ
+http://hls.lan.ua:8009/index.m3u8
+
+#EXTINF:-1 tvg-id="3307" tvg-name="ICTV HD",ICTV HD
+http://hls.lan.ua:8136/index.m3u8
+
+#EXTINF:-1 tvg-id="7843" tvg-name="ICTV2 HD",ICTV2 HD
+http://hls.lan.ua:8027/index.m3u8
+
+#EXTINF:-1 tvg-id="3335" tvg-name="М1 HD",М1 HD
+http://hls.lan.ua:8129/index.m3u8
+
+#EXTINF:-1 tvg-id="3336" tvg-name="М2 HD",М2 HD
+http://hls.lan.ua:8130/index.m3u8
+
+#EXTINF:-1 tvg-id="3351" tvg-name="Оце HD",Оце HD
+http://hls2.lan.ua:8137/index.m3u8
+
+#EXTINF:-1 tvg-id="3309" tvg-name="СТБ HD",СТБ HD
+http://hls2.lan.ua:8138/index.m3u8
