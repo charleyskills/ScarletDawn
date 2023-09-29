@@ -1,0 +1,268 @@
+#EXTM3U m3uautoload=1 cache=1000 deinterlace=1
+#EXTINF:-1,1+1 Марафон HD
+http://hls.lan.ua:8001/index.m3u8
+#EXTINF:-1,1+1 Україна HD
+http://hls2.lan.ua:8004/index.m3u8
+#EXTINF:-1,2+2 HD
+http://hls.lan.ua:8072/index.m3u8
+#EXTINF:-1,ПлюсПлюс HD
+http://hls.lan.ua:8134/index.m3u8
+#EXTINF:-1,DuckTV
+http://hls2.lan.ua:8005/index.m3u8
+#EXTINF:-1,Extreme sports
+http://hls.lan.ua:8006/index.m3u8
+#EXTINF:-1,Квартал ТВ
+http://hls.lan.ua:8007/index.m3u8
+#EXTINF:-1,Рада HD
+http://hls.lan.ua:8008/index.m3u8
+#EXTINF:-1,УНИАН ТВ
+http://hls.lan.ua:8009/index.m3u8
+#EXTINF:-1,Київ HD
+http://hls.lan.ua:8010/index.m3u8
+#EXTINF:-1,ICTV HD
+http://hls.lan.ua:8136/index.m3u8
+#EXTINF:-1,ICTV2 HD
+http://hls2.lan.ua:8027/index.m3u8
+#EXTINF:-1,М1 HD
+http://hls2.lan.ua:8129/index.m3u8
+#EXTINF:-1,М2 HD
+http://hls2.lan.ua:8130/index.m3u8
+#EXTINF:-1,24 (Телеканал новостей 24) HD
+http://hls.lan.ua:8047/index.m3u8
+#EXTINF:-1,Оце HD
+http://hls2.lan.ua:8137/index.m3u8
+#EXTINF:-1,СТБ HD
+http://hls.lan.ua:8138/index.m3u8
+#EXTINF:-1,Прямий HD
+http://hls.lan.ua:8037/index.m3u8
+#EXTINF:-1,Новый канал HD
+http://hls.lan.ua:8139/index.m3u8
+#EXTINF:-1,К1 HD
+http://hls2.lan.ua:8020/index.m3u8
+#EXTINF:-1,К2 HD
+http://hls2.lan.ua:8021/index.m3u8
+#EXTINF:-1,Мега HD
+http://hls2.lan.ua:8022/index.m3u8
+#EXTINF:-1,Zoom HD
+http://hls2.lan.ua:8023/index.m3u8
+#EXTINF:-1,Enter-фильм HD
+http://hls.lan.ua:8024/index.m3u8
+#EXTINF:-1,Пиксель HD
+http://hls.lan.ua:8025/index.m3u8
+#EXTINF:-1,Интер HD
+http://hls2.lan.ua:8026/index.m3u8
+#EXTINF:-1,ID Fashion HD
+http://hls.lan.ua:8029/index.m3u8
+#EXTINF:-1,HTH HD
+http://hls.lan.ua:8031/index.m3u8
+#EXTINF:-1,Milady Television
+http://hls2.lan.ua:8032/index.m3u8
+#EXTINF:-1,Бигуди
+http://hls.lan.ua:8034/index.m3u8
+#EXTINF:-1,Euronews HD
+http://hls.lan.ua:8132/index.m3u8
+#EXTINF:-1,Перший HD
+http://hls2.lan.ua:8036/index.m3u8
+#EXTINF:-1,Суспільне Київ HD
+http://hls2.lan.ua:8045/index.m3u8
+#EXTINF:-1,Суспільне Крим HD
+http://hls.lan.ua:8038/index.m3u8
+#EXTINF:-1,Суспільне Культура HD
+http://hls2.lan.ua:8046/index.m3u8
+#EXTINF:-1,5 канал HD
+http://hls2.lan.ua:8039/index.m3u8
+#EXTINF:-1,Ми-Україна
+http://hls2.lan.ua:8040/index.m3u8
+#EXTINF:-1,CNN International
+http://hls2.lan.ua:8042/index.m3u8
+#EXTINF:-1,Fashion TV
+http://hls2.lan.ua:8043/index.m3u8
+#EXTINF:-1,Fashion TV HD
+http://hls2.lan.ua:8044/index.m3u8
+#EXTINF:-1,Перший західний HD
+http://hls.lan.ua:8048/index.m3u8
+#EXTINF:-1,UTravel HD
+http://hls.lan.ua:8050/index.m3u8
+#EXTINF:-1,Первый автомобильный HD
+http://hls2.lan.ua:8114/index.m3u8
+#EXTINF:-1,ТЕТ HD
+http://hls2.lan.ua:8082/index.m3u8
+#EXTINF:-1,Телевсесвіт HD
+http://hls.lan.ua:8086/index.m3u8
+#EXTINF:-1,Black HD
+http://hls2.lan.ua:8089/index.m3u8
+#EXTINF:-1,EU.Music HD
+http://hls.lan.ua:8065/index.m3u8
+#EXTINF:-1,UA.Music HD
+http://hls.lan.ua:8061/index.m3u8
+#EXTINF:-1,Xsport HD
+http://hls2.lan.ua:8076/index.m3u8
+#EXTINF:-1,Xsport Plus HD
+http://hls2.lan.ua:8060/index.m3u8
+#EXTINF:-1,Сварожичи
+http://hls.lan.ua:8062/index.m3u8
+#EXTINF:-1,Наталі
+http://hls.lan.ua:8063/index.m3u8
+#EXTINF:-1,Comedy Central
+http://hls.lan.ua:8064/index.m3u8
+#EXTINF:-1,Da Vinci Learning
+http://hls2.lan.ua:8067/index.m3u8
+#EXTINF:-1,ATR HD
+http://hls2.lan.ua:8073/index.m3u8
+#EXTINF:-1,Travel + Adventure HD
+http://hls2.lan.ua:8074/index.m3u8
+#EXTINF:-1,Эко-ТВ HD
+http://hls2.lan.ua:8135/index.m3u8
+#EXTINF:-1,Рыбалка
+http://hls.lan.ua:8079/index.m3u8
+#EXTINF:-1,InRating HD
+http://hls2.lan.ua:8080/index.m3u8
+#EXTINF:-1,Еспресо TV HD
+http://hls2.lan.ua:8088/index.m3u8
+#EXTINF:-1,DW Deutsch
+http://hls.lan.ua:8087/index.m3u8
+#EXTINF:-1,Дача HD
+http://hls.lan.ua:8071/index.m3u8
+#EXTINF:-1,Наука
+http://hls.lan.ua:8091/index.m3u8
+#EXTINF:-1,Світло HD
+http://hls2.lan.ua:8113/index.m3u8
+#EXTINF:-1,Терра
+http://hls2.lan.ua:8090/index.m3u8
+#EXTINF:-1,Трофей HD
+http://hls2.lan.ua:8111/index.m3u8
+#EXTINF:-1,Фауна
+http://hls.lan.ua:8098/index.m3u8
+#EXTINF:-1,FOX
+http://hls2.lan.ua:8092/index.m3u8
+#EXTINF:-1,FOX Life
+http://hls.lan.ua:8094/index.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://hls2.lan.ua:8093/index.m3u8
+#EXTINF:-1,Boomerang HD
+http://hls.lan.ua:8096/index.m3u8
+#EXTINF:-1,Радио ПКУР
+http://hls.lan.ua:8100/index.m3u8
+#EXTINF:-1,Радио Проминь
+http://hls2.lan.ua:8101/index.m3u8
+#EXTINF:-1,Радио Культура
+http://hls.lan.ua:8102/index.m3u8
+#EXTINF:-1,NOW series HD
+http://hls.lan.ua:8103/index.m3u8
+#EXTINF:-1,Cine+ HD
+http://hls.lan.ua:8104/index.m3u8
+#EXTINF:-1,Cine+ Hit HD
+http://hls2.lan.ua:8105/index.m3u8
+#EXTINF:-1,Cine+ Kids HD
+http://hls2.lan.ua:8106/index.m3u8
+#EXTINF:-1,Cine+ Legend
+http://hls.lan.ua:8107/index.m3u8
+#EXTINF:-1,4ever Cinema HD
+http://hls.lan.ua:8084/index.m3u8
+#EXTINF:-1,4ever Drama HD
+http://hls.lan.ua:8085/index.m3u8
+#EXTINF:-1,4ever Music HD
+http://hls2.lan.ua:8108/index.m3u8
+#EXTINF:-1,4ever Theater HD
+http://hls2.lan.ua:8095/index.m3u8
+#EXTINF:-1,36.6 HD
+http://hls2.lan.ua:8110/index.m3u8
+#EXTINF:-1,Setanta Sports HD
+http://hls2.lan.ua:8112/index.m3u8
+#EXTINF:-1,Setanta Sports+ HD
+http://hls2.lan.ua:8142/index.m3u8
+#EXTINF:-1,Караван
+http://hls.lan.ua:8115/index.m3u8
+#EXTINF:-1,ОБОЗ ТВ HD
+http://hls2.lan.ua:8128/index.m3u8
+#EXTINF:-1,Film.Ua Drama HD
+http://hls2.lan.ua:8119/index.m3u8
+#EXTINF:-1,National Geographic
+http://hls2.lan.ua:8120/index.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://hls.lan.ua:8122/index.m3u8
+#EXTINF:-1,Animal planet HD
+http://hls.lan.ua:8124/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://hls.lan.ua:8125/index.m3u8
+#EXTINF:-1,Niki Kids HD
+http://hls2.lan.ua:8126/index.m3u8
+#EXTINF:-1,Niki Junior HD
+http://hls.lan.ua:8127/index.m3u8
+#EXTINF:-1,Солнце
+http://hls.lan.ua:8131/index.m3u8
+#EXTINF:-1,Viasat Explorer
+http://hls.lan.ua:8148/index.m3u8
+#EXTINF:-1,Viasat History HD
+http://hls2.lan.ua:8149/index.m3u8
+#EXTINF:-1,Viasat Nature
+http://hls2.lan.ua:8153/index.m3u8
+#EXTINF:-1,Viasat Kino Action HD
+http://hls.lan.ua:8146/index.m3u8
+#EXTINF:-1,Viasat Kino HD
+http://hls.lan.ua:8147/index.m3u8
+#EXTINF:-1,Viasat Kino World
+http://hls.lan.ua:8151/index.m3u8
+#EXTINF:-1,Viasat Kino  Megahit HD
+http://hls2.lan.ua:8474/index.m3u8
+#EXTINF:-1,Viasat Kino Comedy HD
+http://hls.lan.ua:8472/index.m3u8
+#EXTINF:-1,Epic Drama HD
+http://hls.lan.ua:8152/index.m3u8
+#EXTINF:-1,Кино 1 HD
+http://hls2.lan.ua:8175/index.m3u8
+#EXTINF:-1,Кино 1 HD USA
+http://hls.lan.ua:8174/index.m3u8
+#EXTINF:-1,Sport 1
+http://hls.lan.ua:8176/index.m3u8
+#EXTINF:-1,Sport 2
+http://hls2.lan.ua:8177/index.m3u8
+#EXTINF:-1,Sport 3 HD
+http://hls.lan.ua:8180/index.m3u8
+#EXTINF:-1,Sport 4
+http://hls2.lan.ua:8178/index.m3u8
+#EXTINF:-1,Sport 1 (Baltic)
+http://hls2.lan.ua:8179/index.m3u8
+#EXTINF:-1,KinoKazka HD
+http://hls.lan.ua:8181/index.m3u8
+#EXTINF:-1,QuizTV
+http://hls.lan.ua:8182/index.m3u8
+#EXTINF:-1,AMC
+http://hls2.lan.ua:8186/index.m3u8
+#EXTINF:-1,Nick Jr.
+http://hls2.lan.ua:8354/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://hls2.lan.ua:8325/index.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://hls.lan.ua:8290/index.m3u8
+#EXTINF:-1,History HD
+http://hls.lan.ua:8337/index.m3u8
+#EXTINF:-1,History 2 HD
+http://hls2.lan.ua:8117/index.m3u8
+#EXTINF:-1,Travel channel HD
+http://hls.lan.ua:8339/index.m3u8
+#EXTINF:-1,Food Network HD
+http://hls.lan.ua:8380/index.m3u8
+#EXTINF:-1,OstWest
+http://hls2.lan.ua:8396/index.m3u8
+#EXTINF:-1,LaLe HD
+http://hls2.lan.ua:8404/index.m3u8
+#EXTINF:-1,8 канал HD
+http://hls2.lan.ua:8403/index.m3u8
+#EXTINF:-1,Надия
+http://hls2.lan.ua:8413/index.m3u8
+#EXTINF:-1,FRANCE 24 HD
+http://hls.lan.ua:8418/index.m3u8
+#EXTINF:-1,CNL Украина
+http://hls.lan.ua:8426/index.m3u8
+#EXTINF:-1,Настоящее время HD
+http://hls.lan.ua:8455/index.m3u8
+#EXTINF:-1,ПравдаТУТ HD
+http://hls.lan.ua:8070/index.m3u8
+#EXTINF:-1,ПравдаТУТ Київ HD
+http://hls.lan.ua:8458/index.m3u8
+#EXTINF:-1,Апостроф TV
+http://hls.lan.ua:8473/index.m3u8
+#EXTINF:-1,Hollywood HD
+http://hls2.lan.ua:8480/index.m3u8
+ 
